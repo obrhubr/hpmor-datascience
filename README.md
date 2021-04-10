@@ -95,7 +95,8 @@ If we exclude `harry potter, ?` pairs `draco malfoy, hermione granger` dominates
 #### Interactive Network
 ---
 
-I strongly suggest looking at [the interactive network visualisation made with pyvis.network](https://htmlpreview.github.io/?https://raw.githubusercontent.com/obrhubr/hpmor-datascience/master/viz/net.html).
+I strongly suggest looking at the interactive network by downloading the [net.html](https://github.com/obrhubr/hpmor-datascience/blob/master/viz/net.html) and loading it in a browser.
+![Network](viz/img/net.png)
 
 ### Built With
 ---
