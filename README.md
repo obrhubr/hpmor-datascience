@@ -76,7 +76,7 @@ Now to the fun stuff, the graphs.
 
 I created a violin plot of the occurences of each name in time.
 ![Distribution of character names](viz/img/violinnameoccurences.png)
-This is a big plot, I would suggest you open the image in fullscreen. The first one applies a consistent scale on the x-axis of each of the singular violin plots, and you can see that `harry potter` is by far the most common name, which is not surprising give that he is the main character. `draco malfoy` and `hermione granger are the next on the list. 
+This is a big plot, I would suggest you open the image in fullscreen. The first one applies a consistent scale on the x-axis of each of the singular violin plots, and you can see that `harry potter` is by far the most common name, which is not surprising give that he is the main character. `draco malfoy` and `hermione granger` are the next on the list. 
 The second plot has an independant scale on the x-axis for every single violin. You can see that the usage of `petunia` declines, because Harry goes to Hogwarts. One could explain each of the observations in a similar way.
 
 ![Distribution of character names](viz/img/ridgeline.png)
