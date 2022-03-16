@@ -13,7 +13,7 @@ HPMOR is a book written by Eliezer Yudkowski http://www.hpmor.com/ which is base
 <p align="center">
   <img align="center" src="viz/img/hpmor.jpg" height=300px>
 </p>
-The acronym HPMOR stands for `Harry Potter and the methods of rationality`. It has a 96% approval rating on google(at the time of writing). It focuses mainly on presenting concepts of Bayesian Rationality in a simple way. It is definetely worth a read, but the Harry Potter series is a requisite to understand all the jokes.
+The acronym HPMOR stands for `Harry Potter and the methods of rationality`. It has a 96% approval rating on google(at the time of writing). It focuses mainly on presenting concepts of Bayesian Rationality in a simple way. It is definitely worth a read, but the Harry Potter series is a requisite to understand all the jokes.
 
 ### What are the files?
 ---
